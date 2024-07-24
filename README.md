@@ -23,7 +23,7 @@ docker-compose up
 Verificar se os containers estão ativos :
 ![image](https://github.com/user-attachments/assets/49f1639f-bacb-4b84-90c8-2f08b06b65e3)
 
-Para esse projeto não conseguir fazer funcionar a conexão dos dois container. Eu utilizei o método de rodar o projeto do app backend localmente conectando o container do Mysql que roda na porta :3306
+Para esse projeto não consegui fazer funcionar a conexão dos dois container. Eu utilizei o método de rodar o projeto do app backend localmente conectando o container do Mysql que roda na porta :3306
 
 ![image](https://github.com/user-attachments/assets/4441dee1-84dd-4e86-91eb-8ad79be5d497)
 
